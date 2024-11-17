@@ -1,0 +1,6 @@
+/crypto-trading-bot
+    ├── bot.py              # Ana Bot Dosyası (Kodları burada birleştireceğiz)
+    ├── requirements.txt    # Python Kütüphane Gereksinimleri
+    ├── bitcoin_data.csv    # Veri Dosyası (Backtest için)
+    ├── config.py           # API Anahtarları ve Bot Konfigürasyonu
+    └── README.md           # Proje Açıklamaları

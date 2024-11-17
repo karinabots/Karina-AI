@@ -1,0 +1,7 @@
+ccxt
+tensorflow
+pandas
+numpy
+requests
+sklearn
+ta-lib
